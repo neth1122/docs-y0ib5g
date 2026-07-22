@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-20cmqr.yoursingles.online/sitemap.xml
